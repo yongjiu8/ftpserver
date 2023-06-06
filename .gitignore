@@ -1,0 +1,9 @@
+.DS_Store
+ftpserver
+ftpserver.json
+ftpserver.log
+ci-info
+.idea/
+*.pem
+gdrive_token_gdrive.json
+__*
